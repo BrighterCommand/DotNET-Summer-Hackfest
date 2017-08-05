@@ -14,7 +14,7 @@ Finally, we support the handler both being in-process, generally useful when a r
 
 Because Brighter handles inter-process communication via a message queue it can also be used for inter-service communication between microservices.
 
-You can find a link to our documentation here: https://brightercommand.github.io/Brighter/
+You can find a link to our documentation here: [Brighter Documentation](https://brightercommand.github.io/Brighter/)
 
 # Goals for the Session
 We have three goals with this session
@@ -28,10 +28,10 @@ We have three goals with this session
     * Postgres is particularly attractive for Linux environments and the new cross-platform future of the .NET
 
 # How to get to contribute
-We have a page all about contributing: http://github.com/BrighterCommand/Brighter/blob/master/Contributing.md
+We have a page all about contributing: (Contributing)[http://github.com/BrighterCommand/Brighter/blob/master/Contributing.md]
 * Note that we want you to put your copyright in the header and sign the rights for our project to use it over in the CLA. We want to give you credit for your work.
 
-Please note that we have a code of conduct, we expect you to adhere to it: https://github.com/BrighterCommand/Brighter/blob/master/code_of_conduct.md
+Please note that we have a code of conduct, we expect you to adhere to it: (Code of Conduct)[https://github.com/BrighterCommand/Brighter/blob/master/code_of_conduct.md]
 * Mail  us know if you have any issues with violations of our code of conduct on ian_hammond_cooper@yahoo.co.uk
 
 This Wiki Projects provides a summary of the projects that we are running.
