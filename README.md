@@ -49,7 +49,7 @@ Larger changes to the core should have been preceded by an issue so that we can 
 This hackfest focuses on projects that should not have PR issues, to provide a supportive environment for first timers in particular.
 
 # Communication
-The best place to get help is our Gitter channel: (Paramore)[https://gitter.im/iancooper/Paramore] and we will be using that throughout the project.
+The best place to get help is our Gitter channel: [Paramore](https://gitter.im/iancooper/Paramore) and we will be using that throughout the project.
 
 If we need to chat about a project F2F we tend to prefer Skype or G+ Hangouts depending on what works for the participants
 
