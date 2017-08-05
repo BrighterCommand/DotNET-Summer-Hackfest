@@ -28,10 +28,10 @@ We have three goals with this session
     * Postgres is particularly attractive for Linux environments and the new cross-platform future of the .NET
 
 # How to get to contribute
-We have a page all about contributing: (Contributing)[http://github.com/BrighterCommand/Brighter/blob/master/Contributing.md]
+We have a page all about contributing: [Contributing](http://github.com/BrighterCommand/Brighter/blob/master/Contributing.md)
 * Note that we want you to put your copyright in the header and sign the rights for our project to use it over in the CLA. We want to give you credit for your work.
 
-Please note that we have a code of conduct, we expect you to adhere to it: (Code of Conduct)[https://github.com/BrighterCommand/Brighter/blob/master/code_of_conduct.md]
+Please note that we have a code of conduct, we expect you to adhere to it: [Code of Conduct](https://github.com/BrighterCommand/Brighter/blob/master/code_of_conduct.md)
 * Mail  us know if you have any issues with violations of our code of conduct on ian_hammond_cooper@yahoo.co.uk
 
 This Wiki Projects provides a summary of the projects that we are running.
@@ -49,7 +49,7 @@ Larger changes to the core should have been preceded by an issue so that we can 
 This hackfest focuses on projects that should not have PR issues, to provide a supportive environment for first timers in particular.
 
 # Communication
-The best place to get help is our Gitter channel: https://gitter.im/iancooper/Paramore and we will be using that throughout the project.
+The best place to get help is our Gitter channel: (Paramore)[https://gitter.im/iancooper/Paramore] and we will be using that throughout the project.
 
 If we need to chat about a project F2F we tend to prefer Skype or G+ Hangouts depending on what works for the participants
 
