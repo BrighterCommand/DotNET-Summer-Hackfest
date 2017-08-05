@@ -28,15 +28,15 @@ We have three goals with this session
     * Postgres is particularly attractive for Linux environments and the new cross-platform future of the .NET
 
 # How to get to contribute
-We have a page all about contributing:i http://github.com/BrighterCommand/Brighter/blob/master/Contributing.md
-    * Note that we want you to put your copyright in the header and sign the rights for our project to use it over in the CLA. We want to give you credit for your work.
+We have a page all about contributing: http://github.com/BrighterCommand/Brighter/blob/master/Contributing.md
+* Note that we want you to put your copyright in the header and sign the rights for our project to use it over in the CLA. We want to give you credit for your work.
 
 Please note that we have a code of conduct, we expect you to adhere to it: https://github.com/BrighterCommand/Brighter/blob/master/code_of_conduct.md
-    * Mail  us know if you have any issues with violations of our code of conduct on ian_hammond_cooper@yahoo.co.uk
+* Mail  us know if you have any issues with violations of our code of conduct on ian_hammond_cooper@yahoo.co.uk
 
-This [[page | Projects]] provides a summary of the projects that we are running.
+This Wiki Projects provides a summary of the projects that we are running.
 
-Please [[sign up|SignUp]] for projects that you are interested in.
+Please use the Wiki SignUp page for projects that you are interested in.
 
 The projects should be managed from [here](https://github.com/orgs/BrighterCommand/projects)
 
@@ -54,5 +54,5 @@ The best place to get help is our Gitter channel: https://gitter.im/iancooper/Pa
 If we need to chat about a project F2F we tend to prefer Skype or G+ Hangouts depending on what works for the participants
 
 # Events
-No in person events are organised as yet, but please see the [[Events|Events]] page
+No in person events are organised as yet, but please see the Wiki Events page
 
