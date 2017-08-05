@@ -40,7 +40,7 @@ Please use the Wiki SignUp page for projects that you are interested in.
 
 The projects should be managed from [here](https://github.com/orgs/BrighterCommand/projects)
 
-If there is something else that you want to work on, please raise an issue for discussion filename_lower_camelrst, before doing the work and raising a PR.
+If there is something else that you want to work on, please raise an issue for discussion first, before doing the work and raising a PR.
 
 Our workflow is informal for simple bugs, or new middleware, or stores. We tend to accept your PR and then work with you on any fixes needed. This is because any ‘plugin’ can be worked on collaboratively without putting the main project at riski, and bugs don’t ‘rewrite the world’.
 
