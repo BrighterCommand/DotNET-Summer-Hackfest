@@ -19,7 +19,7 @@ You can find a link to our documentation here: [Brighter Documentation](https://
 # Goals for the Session
 We have three goals with this session
 1. Familiarise people with using Brighter.
-    * For this we would encourage you to work on helping to port pour fork of eShopOnContainers to Brighter
+    * For this we would encourage you to work on helping to port our fork of eShopOnContainers to Brighter
 2. Fix minor ‘niggles’ with Brighter
     * This is a great first step for contributing to the project, as you can familiarise yourself with our codebase on a manageably sized piece of work
 3. Implement more middleware and stores
